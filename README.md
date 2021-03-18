@@ -7,7 +7,7 @@ Steps to follow for running this project
 			(or)
    Instead of opening the project in an IDE, from the folder containing the pom.xml file, run the maven's "mvn install" command [you must have maven installed on your machine for this]
 
-3) With the above steps, Floowtest.jar would get created in the target folder. Fromt the target folder, Run this command "java -jar Floowtest.jar" with a JVM [>1.8]
+3) With the above steps, Floowtest.jar would get created in the target folder. From the target folder, Run this command "java -jar Floowtest.jar" with a JVM [>1.8]
 
 4) Project would be up and running with the above steps. Open a browser and test the project on localhost in 8080 port.
 
