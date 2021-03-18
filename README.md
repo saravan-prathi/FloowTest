@@ -9,7 +9,7 @@ Steps to follow for running this project
 
 3) With the above steps, Floowtest.jar would get created in the target folder. From the target folder, Run this command "java -jar Floowtest.jar" with a JVM [>1.8]
 
-4) Project would be up and running with the above steps. Open a browser and test the project on localhost in 8080 port.
+4) Project would be up and running with the above steps. Open Postman and test the project on localhost in 8080 port.
 
 Eg: http://localhost:8080/driver/create
     http://localhost:8080/drivers
